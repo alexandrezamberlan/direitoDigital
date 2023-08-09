@@ -10,8 +10,6 @@ Faz referência a tudo ou pode ser objeto de contestação, disputa ou conflito 
 ### Direito digital
 Ramo do direito que tem como objetivo proporcionar as normatizações e regulamentações do uso dos ambientes digitais pelas pessoas, além de oferecer proteção de informações contidas nesses espaços e em aparelhos eletrônicos. Resumo: regulamenta as relações entre as pessoas e a internet.
 
-### E-commerce
-
 ### Lei Carolina Dieckmann (lei nº 12.737/2012)
 Lei que apresenta penas para crimes como invasão de aparelhos eletrônicos, interrupção de serviços digitais ou de conexão, falsificação de documentos ou de cartões de crédito ou débito.
 
