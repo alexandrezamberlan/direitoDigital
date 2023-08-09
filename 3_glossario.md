@@ -13,7 +13,7 @@ Ramo do direito que tem como objetivo proporcionar as normatizações e regulame
 ### Lei Carolina Dieckmann (lei nº 12.737/2012)
 Lei que apresenta penas para crimes como invasão de aparelhos eletrônicos, interrupção de serviços digitais ou de conexão, falsificação de documentos ou de cartões de crédito ou débito.
 
-### Marco Civil da Internet (lei nº 12.965/2014)
+### Lei Marco Civil da Internet (lei nº 12.965/2014)
 Ela estabelece critérios de direitos e deveres de usuários, além de trazer regras para a manutenção da privacidade dos mesmos por terceiros, como provedores de serviços de internet e demais empresas. Resumo: estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil.
 
 ### Lei Geral de Proteção de Dados Pessoais (lei nº 13.709/2018)
