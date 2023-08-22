@@ -4,9 +4,11 @@
   - Relacionamentos Pessoa - Empresa: produto ou serviço (formal - contrato ou recibo)
   - Relacionamentos Empresa - Empresa: produto ou serviço (formal - contrato)
 
-## Direito do consumidor: 
+## Direito do consumidor:
 
-### Pessoa ou empresa que consome um produto ou serviço adquirido
+Sugestão de vídeo: https://youtu.be/YIZkFzZzJmY
+
+    - Pessoa ou empresa que consome um produto ou serviço adquirido
     - O que é o direito do consumidor?
     - O que engloba e garante?
     - Onde está regulamentado?
