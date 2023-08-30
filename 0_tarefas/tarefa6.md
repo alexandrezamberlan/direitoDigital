@@ -3,6 +3,7 @@ Tarefa 6: Empresa Virtual e Comércio Eletrônico
 Investigue os conceitos das expressões e complemente seu glossário
 
 Empresas Virtuais
+    
     - o que são?
     
     - para que servem?
