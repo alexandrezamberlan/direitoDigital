@@ -22,7 +22,6 @@ O outsourcing, ou terceirização, é um modelo de negócios onde uma empresa co
 
 4. Regulamentação Profissional: Em alguns setores, pode haver regulamentações específicas que o profissional deve seguir, o que pode incluir licenças ou certificações.
 
-### Considerações
 
 É importante que ambas as partes busquem orientação legal adequada ao elaborar contratos e estabelecer relações de outsourcing. A compreensão das implicações jurídicas ajuda a mitigar riscos e a garantir que a colaboração seja benéfica para todos os envolvidos.
 
